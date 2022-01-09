@@ -1,4 +1,4 @@
-[channels.txt](https://github.com/taoste/wtv/blob/Plan-2022/channels/%E6%BA%90%E7%A0%81.m3u) [成人电视CDN版](https://github.com/taoste/wtv/blob/Plan-2022/channels/%E6%88%90%E4%BA%BA%E7%94%B5%E8%A7%86CDN%E7%89%88)
+[channels.txt](/channels/%E6%BA%90%E7%A0%81.m3u) [成人电视CDN版](/channels/%E6%88%90%E4%BA%BA%E7%94%B5%E8%A7%86CDN%E7%89%88)
 ```
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 湖北卫视蓝光3,http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8

@@ -1,5 +1,8 @@
 channels.txt
 ```
+黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+```
+```
 ---央视高清---
 CCTV-1高清,http://iptv.tvfix.org/hls/cctv1hd.m3u8
 CCTV-1深圳旁边版高清,http://iptv.tvfix.org/hls/cctv1hdhk.m3u8

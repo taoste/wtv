@@ -1,5 +1,5 @@
 
-### 喜欢电报的来这里，https://t.me/joinchat/xktfH924PUNmZWJl。好久没更新了，喜欢的来这里，暂时还没什么人
+### [推荐](/channels/ReadMe.md)喜欢电报的来这里，https://t.me/joinchat/xktfH924PUNmZWJl。好久没更新了，喜欢的来这里，暂时还没什么人
 
 > QQ群免费开放中....
 
